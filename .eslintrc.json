@@ -11,11 +11,11 @@
     "node": true
   },
   "rules": {
-    "no-console": "error",
-    "semi": "warn",
-    "indent": "warn",
-    "no-multi-spaces": "warn",
-    "no-trailing-spaces": "warn",
-    "prettier/prettier": "warn"
+    "no-console": "error"
+    // "semi": "warn",
+    // "indent": "warn",
+    // "no-multi-spaces": "warn",
+    // "no-trailing-spaces": "warn",
+    // "prettier/prettier": "warn"
   }
 }
